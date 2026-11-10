@@ -6,7 +6,7 @@
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
-    <name>Abyss Theme for JetBrains</name>
+    <name>Abyss Theme</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
@@ -17,14 +17,14 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
     <description><![CDATA[
-        Enter short description for your theme here.<br>
-        <em>most HTML tags may be used</em>
+        A dark UI theme with black backgrounds and neutral selection, hover, border, and focus colors.<br>
+        Includes a matching editor color scheme and styling for editor tabs, tool windows, popups, notifications, and terminals.
         ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        Renamed the plugin and bundled theme to Abyss Theme for JetBrains.<br>
+        Renamed the plugin and bundled theme to Abyss Theme.<br>
         Updated the vendor, documentation, and theme resource naming.
     ]]></change-notes>
 

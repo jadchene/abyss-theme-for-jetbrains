@@ -1,8 +1,8 @@
-# Abyss Theme for JetBrains
+# Abyss Theme
 
 ## What This Project Is
 
-Abyss Theme for JetBrains is a resource-only UI theme plugin for JetBrains IDEs. It keeps the IDE frame, editor tabs, tool windows, popups, notifications, terminals, and supporting controls consistently dark instead of falling back to gray inactive states or bright platform defaults.
+Abyss Theme is a resource-only UI theme plugin for JetBrains IDEs. It keeps the IDE frame, editor tabs, tool windows, popups, notifications, terminals, and supporting controls consistently dark instead of falling back to gray inactive states or bright platform defaults.
 
 For VS Code, use [Abyss Theme for VS Code](https://github.com/jadchene/abyss-theme-for-vscode).
 
@@ -29,7 +29,7 @@ Then install it:
 2. Open the gear menu and choose **Install Plugin from Disk...**.
 3. Select `abyss-theme-for-jetbrains.jar` and restart the IDE.
 4. Open **Settings** > **Appearance & Behavior** > **Appearance**.
-5. Select **Abyss Theme for JetBrains** as the theme.
+5. Select **Abyss Theme** as the theme.
 
 ## Reference
 
@@ -38,7 +38,7 @@ Then install it:
 | Plugin ID | `abyss-theme-for-jetbrains` |
 | Plugin version | `1.0.1` |
 | Minimum platform build | `251` |
-| Theme name | `Abyss Theme for JetBrains` |
+| Theme name | `Abyss Theme` |
 | Theme author | `chenjd` |
 | Editor scheme | `Abyss Theme` |
 | License | MIT |
