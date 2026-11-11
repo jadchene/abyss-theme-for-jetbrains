@@ -36,7 +36,7 @@ Then install it:
 | Item | Value |
 | --- | --- |
 | Plugin ID | `abyss-theme-for-jetbrains` |
-| Plugin version | `1.0.1` |
+| Plugin version | `1.0.2` |
 | Minimum platform build | `251` |
 | Theme name | `Abyss Theme` |
 | Theme author | `chenjd` |
